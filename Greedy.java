@@ -1,6 +1,4 @@
 //Adrian Hy
-//Project #4 
-//CS 241
 
 package greedy;
 
