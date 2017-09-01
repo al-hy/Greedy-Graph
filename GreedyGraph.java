@@ -1,5 +1,3 @@
-//Adrian Hy
-//Project #4
 
 
 public class GreedyGraph extends Graph 
