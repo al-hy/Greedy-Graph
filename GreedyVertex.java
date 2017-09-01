@@ -1,5 +1,4 @@
-//Adrian Hy
-//Project #4
+
 
 
 public class GreedyVertex extends Vertex implements Comparable<GreedyVertex>
